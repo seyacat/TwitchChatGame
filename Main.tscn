@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=2]
 
 [ext_resource path="res://JintMachine.cs" type="Script" id=1]
-[ext_resource path="res://TwitchChat.gd" type="Script" id=2]
+[ext_resource path="res://modules/TwitchChat.gd/TwitchChat.gd" type="Script" id=2]
 [ext_resource path="res://Main.gd" type="Script" id=3]
 [ext_resource path="res://public/Arial Bold.ttf" type="DynamicFontData" id=4]
 [ext_resource path="res://Mensajes.gd" type="Script" id=5]
